@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : GuessOneNumber.cpp
-// Author      : Jose Juan Pena Gomez
+// Author      : Jjosejuan98
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Ansi-style
