@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Binomy.cpp
-// Author      : Jose Juan Pena Gomez
+// Author      : josejuan98
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Ansi-style
